@@ -1,0 +1,6 @@
+.navbar-nav-scroll {
+  --bs-scroll-height: 100px;
+}
+.countItems {
+  font-size: 12px;
+}
